@@ -3,7 +3,7 @@ List of academic research on usability work and open source culture. Contributio
 
 
 | Year      | Author         | Title  |Cited 2015 |Acceess  |Link |
-| ------------- |:-------------|:-----|:-----:|:-----:|:-----:|
+| :----: |:--------|:--------------------------------|:-----:|:-----|:----|
 | 1997    | Eric Steven Raymond | The Cathedral and the Bazaar |3930|||
 |2001|D.M. Nichols, K.Thomson and S.A.Yeates|Usability and open-source software development|42||
 |2002| N.Frishberg,A.M. Dirks, C.Benson, S. Nickell, S. Smith|Getting to know you: open source development meets usability|44||
