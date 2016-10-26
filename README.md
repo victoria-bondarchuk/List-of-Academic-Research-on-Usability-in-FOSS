@@ -28,6 +28,7 @@ List of academic research on usability work and open source culture. Contributio
 |2015|M.Rajanen, N.Iivari and A.Lanamäki|Non-response, Social Exclusion, and False Acceptance: Gatekeeping Tactics and Usability Work in Free-Libre Open Source Software Development|3|Open|[oulu.fi](http://cc.oulu.fi/~mrajanen/INTERACT2015_rajanen_iivari_lanamaki.pdf)|
 |2015|M.Rajanen and N.Iivary| Examining Usability Work and Culture in FOSS|1|Open|[oulu.fi](http://cc.oulu.fi/~mrajanen/OSS2015_rajanen_iivari.pdf)|
 |2015|Mikko Rajanen & Netta Iivari|Power, Empowerment and Open Source Usability|4|Paid|[dl.acm.org](http://dl.acm.org/citation.cfm?id=2702441)|
+|2015|Michelle W. Purcell|Technology-In-Practice and its Influence on User Involvement in OSS 2.0 Projects|0|Open|[ideals.illinois.edu](https://www.ideals.illinois.edu/bitstream/handle/2142/73751/450_ready.pdf?sequence=2&isAllowed=y)|
 
 
 
