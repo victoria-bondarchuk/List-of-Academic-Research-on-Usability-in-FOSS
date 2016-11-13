@@ -21,6 +21,7 @@ List of academic research on usability work and open source culture. Contributio
 |2009|H.Hedberg and N.Iivari|Integrating HCI Specialists into Open Source Software Development Projects|14|Open|[springer.com](http://link.springer.com/chapter/10.1007%2F978-3-642-02032-2_22#page-1)|
 |2009|Paula M. Bach|Supporting the user experience in free/libre/open source software development|4|Open|[psu.edu](https://etda.libraries.psu.edu/paper/9880/5184)|
 |2009|Paula M. Bach, R.DeLine, and J.M. Carroll|Designers wanted: participation and the user experience in open source software development|32|Paid|[acm.org](https://dl.acm.org/citation.cfm?id=1518852&dl=ACM&coll=DL&CFID=589697071&CFTOKEN=94517988)|
+|2009|Paula M. Bach and John M. Carroll|FLOSS UX Design:An Analysis of User Experience Design in Firefox and OpenOffice.org|13|Open|[http://flosshub.org/](http://flosshub.org/system/files/Floss%20UX%20Desing.pdf)|
 |2010|Paula M. Bach, M.Twidale|Social Participation in Open Source: What it Means for Designers|8|Paid|[acm.org](https://dl.acm.org/citation.cfm?doid=1744161.1744177)|
 |2010|A.Raza and L.F.Capretz|Contributors' preference in open source software usability: An empirical study|6|Open|[Cornell Uni Library](http://arxiv.org/pdf/1507.06882.pdf)|
 |2012|A.Raza and L.F.Capretz|Do open source software developers listen to their users|4|Open|[researchgate.net](https://www.researchgate.net/publication/287955808_Do_open_source_software_developers_listen_to_their_users)|
