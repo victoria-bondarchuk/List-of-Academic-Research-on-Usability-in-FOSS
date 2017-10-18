@@ -1,7 +1,7 @@
 # List of Academic Research on Usability in FOSS
 List of academic research on usability work and open source culture. Contributions are welcome!
 
-#Published papers
+## Published papers
 
 | Year      | Author         | Title  |Cited 2015 |Acceess  |Link |
 | :----: |:--------|:--------------------------------|:-----:|:-----|:----|
@@ -33,7 +33,7 @@ List of academic research on usability work and open source culture. Contributio
 |2015|Mikko Rajanen & Netta Iivari|Power, Empowerment and Open Source Usability|4|Paid|[dl.acm.org](http://dl.acm.org/citation.cfm?id=2702441)|
 |2015|Michelle W. Purcell|Technology-In-Practice and its Influence on User Involvement in OSS 2.0 Projects|0|Open|[ideals.illinois.edu](https://www.ideals.illinois.edu/bitstream/handle/2142/73751/450_ready.pdf?sequence=2&isAllowed=y)|
 
-#Research
+## Research
 
 
 | Year      | Author         | Title  |Type |Acceess  |Link |
