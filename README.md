@@ -39,7 +39,7 @@ List of academic research on usability work and open source culture. Contributio
 | Year      | Author         | Title  |Type |Acceess  |Link |
 | :----: |:--------|:--------------------------------|:-----:|:-----|:----|
 | 2012   | Jan-Christoph Borchardt| Usability in Free Software|Thesis|Open|[jancborchardt.net](http://jancborchardt.net/usability-in-free-software)|
-|2017|Jan Dittrich|Usability and open-source software development|Book|Open|[jdittrich.github.io](https://jdittrich.github.io/userNeedResearchBook/)|
+|2017|Jan Dittrich|Beginner's guide to finding user needs |Book|Open|[jdittrich.github.io](https://jdittrich.github.io/userNeedResearchBook/)|
 
 
 
