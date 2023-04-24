@@ -32,6 +32,8 @@ List of academic research on usability work and open source culture. Contributio
 |2015|M.Rajanen and N.Iivary| Examining Usability Work and Culture in FOSS|1|Open|[oulu.fi](http://cc.oulu.fi/~mrajanen/OSS2015_rajanen_iivari.pdf)|
 |2015|Mikko Rajanen & Netta Iivari|Power, Empowerment and Open Source Usability|4|Paid|[dl.acm.org](http://dl.acm.org/citation.cfm?id=2702441)|
 |2015|Michelle W. Purcell|Technology-In-Practice and its Influence on User Involvement in OSS 2.0 Projects|0|Open|[ideals.illinois.edu](https://www.ideals.illinois.edu/bitstream/handle/2142/73751/450_ready.pdf?sequence=2&isAllowed=y)|
+|2016|Lisa Haskel, Paula Graham | Whats GNU got to do with it?: participatory design, infrastructuring and free/open source software|9 ('23)|Paid|[acm.org](https://dl.acm.org/doi/10.1145/2948076.2948090)|
+|2018|Jinghui Cheng, Jin L.C. Guo | How Do the Open Source Communities Address Usability and UX Issues? An Exploratory Study | 19 ('23)|open|[acm.org](https://dl.acm.org/doi/abs/10.1145/3170427.3188467)|
 
 ## Research
 
