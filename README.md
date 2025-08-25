@@ -9,7 +9,7 @@ List of academic research on usability work and open source culture. Contributio
 |2001|D.M. Nichols, K.Thomson and S.A.Yeates|Usability and open-source software development|42|Paid|[acm.org](https://dl.acm.org/citation.cfm?id=2331822)|
 |2002| N.Frishberg,A.M. Dirks, C.Benson, S. Nickell, S. Smith|Getting to know you: open source development meets usability|44|Open|[researchgate.net](https://www.researchgate.net/publication/221514637_Getting_to_know_you_open_source_development_meets_usability)|
 |2002|Peter Trudelle|Shall We Dance? Ten Lessons Learned from Netscape's Flirtation with Open Source UI Development|16|Open|[iol.ie](http://www.iol.ie/~calum/chi2002/peter_trudelle.txt)|
-|2003|D.M. Nichols, M.B Twidale|The Usability of Open Source Software|249|Open|[firstmonday.org](http://firstmonday.org/article/view/1018/939)|
+|2003|D.M. Nichols, M.B Twidale|The Usability of Open Source Software|249|Open|[firstmonday.org](https://firstmonday.org/ojs/index.php/fm/article/download/1018/939)|
 |2004|C Benson, M Muller-Prove, J Mzourek|Professional Usability in Open Source Projects: GNOME, OpenOffice.org, NetBeans|78|Paid|[acm.org](https://dl.acm.org/citation.cfm?id=985991&dl=ACM&coll=DL&CFID=589697071&CFTOKEN=94517988)|
 |2005|E. Golden, B. E. John, L. Bass|The Value of a Usability-Supporting Architectural Pattern in Software Architecture Design: A Controlled Experiment|45|Open|[cmu.edu](https://www.cs.cmu.edu/~bej/usa/publications/GoldenJohnBassICSE2005.pdf)|
 |2006|M. S. Andreasen, H.V. Nielsen, S.O. Schrøder, J. Stage|Usability In Open Source Software Development: Opinions And Practice|44|Open|[itc.ktu.lt](http://www.itc.ktu.lt/index.php/ITC/article/view/11776/6440)|
