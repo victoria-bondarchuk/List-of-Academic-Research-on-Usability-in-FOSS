@@ -34,11 +34,16 @@ List of academic research on usability work and open source culture. Contributio
 |2015|Michelle W. Purcell|Technology-In-Practice and its Influence on User Involvement in OSS 2.0 Projects|0|Open|[ideals.illinois.edu](https://www.ideals.illinois.edu/bitstream/handle/2142/73751/450_ready.pdf?sequence=2&isAllowed=y)|
 |2016|Lisa Haskel, Paula Graham | Whats GNU got to do with it?: participatory design, infrastructuring and free/open source software|9 ('23)|Paid|[acm.org](https://dl.acm.org/doi/10.1145/2948076.2948090)|
 |2018|Jinghui Cheng, Jin L.C. Guo | How Do the Open Source Communities Address Usability and UX Issues? An Exploratory Study | 19 ('23)|open|[acm.org](https://dl.acm.org/doi/abs/10.1145/3170427.3188467)|
+|2020|Wang et.al.|ArguLens: Anatomy of Community Opinions On Usability Issues Using Argumentation Models | 44 ('25)|open| [acm.org](https://dl.acm.org/doi/fullHtml/10.1145/3313831.3376218)|
+|2022|Hellmann et.al.| Characterizing User Behaviors in Open-Source Software User Forums: An Empirical Study|12 ('25)| open| [acm.org](https://dl.acm.org/doi/pdf/10.1145/3528579.3529178)|
+|2024|A.Sanei, J.Cheng| Characterizing Usability Issue Discussions in Open Source Software Projects | 6 ('25)|open|[acm.org](https://dl.acm.org/doi/10.1145/3637307)|
+|2024|Jahn et.al. | In Between Users and Developers: Serendipitous Connections and Intermediaries in Volunteer-Driven Open-Source Sofware Development| 8 ('25)|open| [acm.org](https://dl.acm.org/doi/full/10.1145/3613904.3642541)|
+|2024|Namayala, Kondo, Mselle| The Factors Affecting User Experience Maturity in Free and Open Source Software Community: An Empirical Study| 6 ('25)|Paid| [T&F](https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2262270)|
 
 ## Research
 
 
-| Year      | Author         | Title  |Type |Acceess  |Link |
+| Year      | Author         | Title  |Type |Access  |Link |
 | :----: |:--------|:--------------------------------|:-----:|:-----|:----|
 | 2011   | Jan-Christoph Borchardt| Usability in Free Software|Thesis|Open|[jancborchardt.net](http://jancborchardt.net/usability-in-free-software)|
 |2017|Jan Dittrich|A beginner's guide to finding user needs |Book|Open|[jdittrich.github.io](https://jdittrich.github.io/userNeedResearchBook/)|
