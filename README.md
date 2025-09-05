@@ -27,6 +27,7 @@ List of academic research on usability work and open source culture. Contributio
 |2010|A.Raza and L.F.Capretz|Contributors' preference in open source software usability: An empirical study|6|Open|[Cornell Uni Library](http://arxiv.org/pdf/1507.06882.pdf)|
 |2012|A.Raza and L.F.Capretz|Do open source software developers listen to their users|4|Open|[researchgate.net](https://www.researchgate.net/publication/287955808_Do_open_source_software_developers_listen_to_their_users)|
 |2013|M.Rajanen and N.Iivary|Open Source and Human Computer Interaction Philosophies in Open Source Projects: Incompatible or Co-Existent?|4|Open|[oulu.fi](http://cc.oulu.fi/~mrajanen/MindTrek2013_rajanen_iivari.pdf)|
+|2013|N. Iivari|‘Configuring the User and the Designer’ – A Critical Inquiry on Usability Work in the Company Open Source Software Development Context|?|Paid|[springer](https://link.springer.com/chapter/10.1007/978-3-642-39832-2_1)|
 |2013|Benjamin M. Hill and Andrés Monroy-Hernández|The cost of collaboration for code and art: evidence from a remixing community|14|Open|[arxiv.org](https://arxiv.org/pdf/1507.01297.pdf)|
 |2015|M.Rajanen, N.Iivari and A.Lanamäki|Non-response, Social Exclusion, and False Acceptance: Gatekeeping Tactics and Usability Work in Free-Libre Open Source Software Development|3|Open|[oulu.fi](http://cc.oulu.fi/~mrajanen/INTERACT2015_rajanen_iivari_lanamaki.pdf)|
 |2015|M.Rajanen and N.Iivary| Examining Usability Work and Culture in FOSS|1|Open|[oulu.fi](http://cc.oulu.fi/~mrajanen/OSS2015_rajanen_iivari.pdf)|
