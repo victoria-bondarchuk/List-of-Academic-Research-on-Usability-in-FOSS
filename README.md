@@ -40,6 +40,8 @@ List of academic research on usability work and open source culture. Contributio
 |2024|A.Sanei, J.Cheng| Characterizing Usability Issue Discussions in Open Source Software Projects | 6 ('25)|open|[acm.org](https://dl.acm.org/doi/10.1145/3637307)|
 |2024|Jahn et.al. | In Between Users and Developers: Serendipitous Connections and Intermediaries in Volunteer-Driven Open-Source Sofware Development| 8 ('25)|open| [acm.org](https://dl.acm.org/doi/full/10.1145/3613904.3642541)|
 |2024|Namayala, Kondo, Mselle| The Factors Affecting User Experience Maturity in Free and Open Source Software Community: An Empirical Study| 6 ('25)|Paid| [T&F](https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2262270)|
+|2025|Hellman et.al.| 'Ohhh, he's the boss!': Unpacking Power Dynamics Among Developers, Designers, and End-Users in FLOSS Usability | - | open| [arxiv/acm](https://arxiv.org/abs/2504.15494)|
+|2025|Zhang et.al.| Who is to Blame: A Comprehensive Review of Challenges and Opportunities in Designer-Developer Collaboration| - | open | [arxiv/acm](https://arxiv.org/abs/2501.11748)
 
 ## Research
 
