@@ -47,6 +47,10 @@ List of academic research on usability work and open source culture. Contributio
 |2025|Zhang et.al.| Who is to Blame: A Comprehensive Review of Challenges and Opportunities in Designer-Developer Collaboration| - | open | [arxiv/acm](https://arxiv.org/abs/2501.11748)|
 |2026|Sanei et.al. |What Pulls the Strings? Understanding the Characteristics and Role of Argumentation in Open-Source Software Usability Discussions|-| open |[arxiv/TF](https://arxiv.org/pdf/2604.24981)|
 
+Notes:
+
+* Not all sources are academic in the strict sense; some are included because they are relevant for discussions about open source software and its usability.
+
 ## Research
 
 
