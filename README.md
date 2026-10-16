@@ -5,6 +5,9 @@ List of academic research on usability work and open source culture. Contributio
 
 | Year      | Author         | Title  |Cited 2015 |Acceess  |Link |
 | :----: |:--------|:--------------------------------|:-----:|:-----|:----|
+| 1981 | Norman, D | The trouble with Unix | 80 (2026) | Open | [researchgate](https://www.researchgate.net/publication/202165676_The_trouble_with_UNIX_The_user_interface_is_horrid) | 
+| 1983 | Leon, L.D., Harris, W.G., Evens, M. | Is there really trouble with UNIX? | 6 (2026)|Open|[Archive.org](https://ia800803.us.archive.org/32/items/is-there-really-trouble-with-unix/Image092317124714_text.pdf)|
+| 1993 | Simson Garfinkel, Daniel Weise, Steven Strassmann | The UNIX-HATERS Handbook | 53 (2026) | Open | [mit.edu](https://web.mit.edu/~simsong/www/ugh.pdf) |
 | 1997    | Eric Steven Raymond | The Cathedral and the Bazaar |3930|Open|[www.unterstein.net](http://www.unterstein.net/su/docs/CathBaz.pdf)|
 |2001|D.M. Nichols, K.Thomson and S.A.Yeates|Usability and open-source software development|42|Paid|[acm.org](https://dl.acm.org/citation.cfm?id=2331822)|
 |2002| N.Frishberg,A.M. Dirks, C.Benson, S. Nickell, S. Smith|Getting to know you: open source development meets usability|44|Open|[researchgate.net](https://www.researchgate.net/publication/221514637_Getting_to_know_you_open_source_development_meets_usability)|
